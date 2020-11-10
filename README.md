@@ -2,6 +2,8 @@
 
 Code written while completing the coursework covered in "CATS" library for Scala functional programming course on https://rockthejvm.com/p/cats
 
+[Certificate of completion](https://drive.google.com/file/d/1bd6vYDh6MqsWimTBtO2EYLdlkumlEe7p)
+
 ## Note on the structure
 
 The main topics covered are residing in lectures and exercises folders in src/main/scala/. Both lectures and notes contain my comments and tests for various concepts in Scala language with CATS library. The exercises contain full problem specification, and my solution offered.
